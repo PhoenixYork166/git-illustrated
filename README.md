@@ -1,3 +1,6 @@
+<h2>Restoring from a git hashcode</h2>
+<br/>
+
 <h2>Checking all git hashcode records</h2>
 <br/>
 
@@ -17,8 +20,9 @@ git checkout <gitHash>;
 ```
 
 <br/>
+<br/>
 
-<h2>Checking HEADs</h2>
+<h2>Restoring from git HEADs</h2>
 ```bash
 git log;
 ```
